@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 
-namespace _Rkn.Common.Hints
+namespace GamedevForge.Hints
 {
     public static class Hints
     {
-        private static HintAdapter _adapter;
+        private static readonly HintAdapter _adapter = new HintAdapter();
 
         public static void SetTarget(Transform target) => _adapter.SetTarget(target);
 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace _Rkn.Common.Hints
+namespace GamedevForge.Hints
 {
     public class HintAdapter
     {
