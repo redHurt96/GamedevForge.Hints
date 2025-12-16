@@ -1,0 +1,10 @@
+{
+  "name": "com.redhurt96.gamedevforge.hints",
+  "displayName": "GamedevForge Hints",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Hints API entry point for Unity projects.",
+  "author": {
+    "name": "redHurt96"
+  }
+}
