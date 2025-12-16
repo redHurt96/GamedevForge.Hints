@@ -77,7 +77,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -100,8 +100,6 @@ MonoBehaviour:
   _image: {fileID: 6462084958883274970}
   _direction: {fileID: 66345871996006496}
   _distance: {fileID: 8856463762613855734}
-  _screenMargin: 50
-  _showDistanceThreshold: 20
 --- !u!1 &4060301653114735263
 GameObject:
   m_ObjectHideFlags: 0

@@ -4,7 +4,7 @@ namespace GamedevForge.Hints
 {
     public static class Hints
     {
-        private static readonly HintAdapter _adapter = new HintAdapter();
+        private static readonly HintsAdapter _adapter = new HintsAdapter();
 
         public static void SetTarget(Transform target) => _adapter.SetTarget(target);
 
