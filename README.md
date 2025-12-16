@@ -13,7 +13,10 @@ Package is:
 
 ## How to install
 
-Via package manager: press "+" and "Install package from git URL".
+Via package manager: press "+" and "Install package from git URL" and write into input field:
+```json
+https://github.com/redHurt96/GamedevForge.Hints.git
+```
 
 Via unity package: go to release tab, download the package and drop it into your unity project.
 
